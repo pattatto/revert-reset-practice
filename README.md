@@ -1,3 +1,2 @@
 # revert-reset-practice
-
-間違い
+間違えた変更
